@@ -21,4 +21,4 @@ b = set(a)
 b.add(5)
 b.pop()
 
-#after executing this code will 5 be part of b elements?
+#after executing this code will 5 be part of b elements? remeber pop method remove random element
